@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Output of the 'coverage' package
+htmlcov/
+
+# Instance folder
+instance/
+
+# Environment variables file
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Jupyter Notebook auto-generated files
+.ipynb_checkpoints/
+
+# Compiled JavaScript and CSS
+*.js.map
+*.css.map
+
+# macOS-specific files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Compiled binary extensions
+*.so
+
+# Sphinx documentation
+docs/_build/
+
+# Docker-compose
+docker-compose.yml
+docker-compose.override.yml
+docker-compose.debug.yml
+
+# Docker-related
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Node.js related
+node_modules/
+package-lock.json
